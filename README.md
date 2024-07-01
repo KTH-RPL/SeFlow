@@ -5,7 +5,7 @@ SeFlow: A Self-Supervised Scene Flow Method in Autonomous Driving
 
 We got accepted! I will **update the whole code** around the DDL of the camera-ready version (**Jul'15**). Stay Tunned with us.
 
-Task: Self-Supervvised Scene Flow Estimation in Autonomous Driving. 
+Task: Self-Supervised Scene Flow Estimation in Autonomous Driving. 
 
 **Scripts** quick view in our scripts (We directly follow our previous work [DeFlow code structure](https://github.com/KTH-RPL/DeFlow)):
 
@@ -28,7 +28,7 @@ Task: Self-Supervvised Scene Flow Estimation in Autonomous Driving.
 
 ## 1. Run & Train
 
-comming soon
+coming soon
 
 ## 2. Evaluation & Upload to Leaderboard
 
