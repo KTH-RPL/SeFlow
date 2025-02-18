@@ -10,7 +10,7 @@ SeFlow: A Self-Supervised Scene Flow Method in Autonomous Driving
 
 Task: __Self-Supervised__ Scene Flow Estimation in Autonomous Driving. No human-label needed. Real-time inference (15-20Hz in RTX3090).
 
-📜 2025/02/18: Merging all scene flow code to a codebase to update one general repo only. This repo still saved SeFlow README and [cluster slurm files](assets/slurm).
+📜 2025/02/18: Merging all scene flow code to [OpenSceneFLow codebase](https://github.com/KTH-RPL/OpenSceneFlow) for afterward code maintenance. This repo saved README, [cluster slurm files](assets/slurm), and [quick core file](lossfunc.py) in SeFlow. The old source code branch is also [available here](https://github.com/KTH-RPL/SeFlow/tree/source).
 
 2024/11/18 16:17: Update model and demo data download link through HuggingFace, Personally I found `wget` from HuggingFace link is much faster than Zenodo.
 
